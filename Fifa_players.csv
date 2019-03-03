@@ -1,0 +1,737 @@
+,Age,Country,Height(cm),International Caps,International Goals,Name,Role
+0,29,Peru,189.0 cm,42,0,Pedro GALLESE,Goalkeeper
+1,34,Peru,179.0 cm,75,0,Alberto RODRIGUEZ,Defender
+2,29,Peru,172.0 cm,24,0,Aldo CORZO,Defender
+3,27,Peru,185.0 cm,8,0,Anderson SANTAMARIA,Defender
+4,24,Peru,178.0 cm,8,0,Miguel ARAUJO,Defender
+5,26,Peru,169.0 cm,29,0,Miguel TRAUCO,Defender
+6,28,Peru,175.0 cm,34,3,Paolo HURTADO,Midfielder
+7,27,Peru,169.0 cm,48,8,Christian CUEVA,Midfielder
+8,35,Peru,185.0 cm,92,36,Paolo GUERRERO,Forward
+9,34,Peru,178.0 cm,86,25,Jefferson FARFAN,Forward
+10,28,Peru,169.0 cm,32,4,Raul RUIDIAZ,Forward
+11,27,Peru,185.0 cm,6,0,Carlos CACEDA,Goalkeeper
+12,23,Peru,185.0 cm,33,3,Renato TAPIA,Midfielder
+13,24,Peru,174.0 cm,17,1,Andy POLO,Midfielder
+14,30,Peru,185.0 cm,73,3,Christian RAMOS,Defender
+15,24,Peru,179.0 cm,4,0,Wilder CARTAGENA,Midfielder
+16,29,Peru,178.0 cm,68,0,Luis ADVINCULA,Defender
+17,27,Peru,181.0 cm,49,6,Andre CARRILLO,Forward
+18,28,Peru,173.0 cm,76,2,Yoshimar YOTUN,Midfielder
+19,24,Peru,170.0 cm,32,9,Edison FLORES,Forward
+20,33,Peru,182.0 cm,6,0,Jose CARVALLO,Goalkeeper
+21,24,Peru,179.0 cm,3,0,Nilson LOYOLA,Defender
+22,23,Peru,175.0 cm,16,0,Pedro AQUINO,Midfielder
+23,27,Morocco,192.0 cm,34,0,Yassine BOUNOU,Goalkeeper
+24,20,Morocco,179.0 cm,15,1,Achraf HAKIMI,Defender
+25,21,Morocco,179.0 cm,16,0,Hamza MENDYL,Defender
+26,32,Morocco,187.0 cm,30,2,MANUEL DA COSTA,Defender
+27,31,Morocco,188.0 cm,62,4,Mehdi BENATIA,Defender
+28,28,Morocco,190.0 cm,28,2,Romain SAISS,Defender
+29,25,Morocco,180.0 cm,21,10,Hakim ZIYECH,Midfielder
+30,34,Morocco,179.0 cm,55,1,Karim EL AHMADI,Midfielder
+31,25,Morocco,182.0 cm,5,2,Ayoub EL KAABI,Forward
+32,29,Morocco,174.0 cm,53,5,Younes BELHANDA,Midfielder
+33,30,Morocco,178.0 cm,26,2,Faycal FAJR,Midfielder
+34,29,Morocco,190.0 cm,36,0,Monir EL KAJOUI,Goalkeeper
+35,31,Morocco,190.0 cm,22,10,Khalid BOUTAIB,Forward
+36,34,Morocco,166.0 cm,64,7,Mbark BOUSSOUFA,Midfielder
+37,22,Morocco,184.0 cm,14,0,Youssef AIT BENNASSER,Midfielder
+38,31,Morocco,179.0 cm,48,4,Noureddine AMRABAT,Midfielder
+39,33,Morocco,187.0 cm,40,5,Nabil DIRAR,Defender
+40,21,Morocco,179.0 cm,8,0,Amine HARIT,Midfielder
+41,21,Morocco,188.0 cm,17,3,Youssef EN NESYRI,Forward
+42,31,Morocco,188.0 cm,17,3,Aziz BOUHADDOUZ,Forward
+43,22,Morocco,173.0 cm,7,0,Sofyan AMRABAT,Midfielder
+44,22,Morocco,186.0 cm,5,0,Ahmed TAGNAOUTI,Goalkeeper
+45,29,Morocco,176.0 cm,22,1,Mehdi CARCELA,Midfielder
+46,46,Egypt,190.0 cm,159,0,ESSAM ELHADARY,Goalkeeper
+47,30,Egypt,191.0 cm,25,1,ALI GABR,Defender
+48,31,Egypt,183.0 cm,84,2,AHMED ELMOHAMADY,Defender
+49,27,Egypt,175.0 cm,24,0,OMAR GABER,Midfielder
+50,27,Egypt,173.0 cm,6,0,SAM MORSY,Midfielder
+51,28,Egypt,194.0 cm,48,1,AHMED HEGAZY,Defender
+52,34,Egypt,176.0 cm,131,3,AHMED FATHI,Defender
+53,30,Egypt,169.0 cm,26,0,TAREK HAMED,Midfielder
+54,30,Egypt,185.0 cm,25,4,Marwan MOHSEN,Forward
+55,26,Egypt,175.0 cm,58,37,MOHAMED SALAH,Forward
+56,24,Egypt,182.0 cm,25,3,KAHRABA,Forward
+57,27,Egypt,178.0 cm,3,1,AYMAN ASHRAF,Defender
+58,33,Egypt,175.0 cm,55,2,MOHAMED ABDEL SHAFI,Defender
+59,22,Egypt,183.0 cm,28,1,Ramadan SOBHI,Forward
+60,23,Egypt,173.0 cm,1,0,MAHMOUD HAMDY,Defender
+61,35,Egypt,193.0 cm,23,0,SHERIF EKRAMY,Goalkeeper
+62,26,Egypt,180.0 cm,64,5,Mohamed EL NENY,Midfielder
+63,32,Egypt,183.0 cm,32,2,SHIKABALA,Forward
+64,33,Egypt,176.0 cm,41,6,ABDALLA SAID,Midfielder
+65,29,Egypt,185.0 cm,11,0,SAMIR SAAD,Defender
+66,24,Egypt,179.0 cm,29,2,TREZEGET,Midfielder
+67,25,Egypt,176.0 cm,20,0,Amr WARDA,Forward
+68,30,Egypt,191.0 cm,5,0,MOHAMED ELSHENAWY,Goalkeeper
+69,26,IR Iran,195.0 cm,25,0,Ali BEIRANVAND,Goalkeeper
+70,24,IR Iran,185.0 cm,16,4,Mahdi TORABI,Midfielder
+71,29,IR Iran,178.0 cm,97,6,Ehsan HAJI SAFI,Defender
+72,25,IR Iran,192.0 cm,10,1,Roozbeh CHESHMI,Defender
+73,25,IR Iran,178.0 cm,21,0,Milad MOHAMMADI,Defender
+74,22,IR Iran,190.0 cm,27,2,Saeid EZATOLAHI,Midfielder
+75,34,IR Iran,187.0 cm,75,8,Masoud SHOJAEI,Midfielder
+76,26,IR Iran,185.0 cm,30,2,Morteza POURALIGANJI,Defender
+77,31,IR Iran,178.0 cm,32,0,Omid EBRAHIMI,Midfielder
+78,28,IR Iran,187.0 cm,67,19,Karim ANSARIFARD,Forward
+79,30,IR Iran,185.0 cm,39,1,Vahid AMIRI,Midfielder
+80,29,IR Iran,192.0 cm,3,0,Rashid MAZAHERI,Goalkeeper
+81,27,IR Iran,186.0 cm,8,1,Mohammad Reza KHANZADEH,Defender
+82,25,IR Iran,177.0 cm,11,1,Saman GHODDOS,Forward
+83,35,IR Iran,185.0 cm,46,1,Pejman MONTAZERI,Defender
+84,31,IR Iran,180.0 cm,43,17,Reza GHOOCHANNEJAD,Forward
+85,26,IR Iran,187.0 cm,29,11,Mehdi TAREMI,Forward
+86,25,IR Iran,180.0 cm,41,4,Alireza JAHAN BAKHSH,Forward
+87,22,IR Iran,183.0 cm,4,0,Majid HOSSEINI,Defender
+88,24,IR Iran,185.0 cm,35,23,Sardar AZMOUN,Forward
+89,32,IR Iran,181.0 cm,46,9,Ashkan DEJAGAH,Forward
+90,25,IR Iran,186.0 cm,1,0,Amir ABEDZADEH,Goalkeeper
+91,28,IR Iran,185.0 cm,29,2,Ramin REZAEIAN,Defender
+92,38,Mexico,184.0 cm,54,0,Jose CORONA,Goalkeeper
+93,31,Mexico,183.0 cm,45,1,Hugo AYALA,Defender
+94,25,Mexico,188.0 cm,25,0,Carlos SALCEDO,Defender
+95,40,Mexico,184.0 cm,148,15,Rafael MARQUEZ,Defender
+96,23,Mexico,176.0 cm,8,0,Erick GUTIERREZ,Midfielder
+97,28,Mexico,173.0 cm,38,0,Jonathan DOS SANTOS,Midfielder
+98,30,Mexico,179.0 cm,68,6,Miguel LAYUN,Midfielder
+99,29,Mexico,170.0 cm,40,9,Marco FABIAN,Forward
+100,27,Mexico,188.0 cm,65,14,Raul JIMENEZ,Forward
+101,29,Mexico,178.0 cm,106,19,Giovani DOS SANTOS,Midfielder
+102,30,Mexico,178.0 cm,72,19,Carlos VELA,Forward
+103,36,Mexico,188.0 cm,28,0,Alfredo TALAVERA,Goalkeeper
+104,33,Mexico,183.0 cm,98,0,Guillermo OCHOA,Goalkeeper
+105,30,Mexico,175.0 cm,106,50,Javier HERNANDEZ,Forward
+106,31,Mexico,184.0 cm,95,3,Hector MORENO,Defender
+107,28,Mexico,178.0 cm,70,5,Hector HERRERA,Defender
+108,26,Mexico,174.0 cm,38,7,Jesus CORONA,Midfielder
+109,32,Mexico,169.0 cm,151,25,Andres GUARDADO,Midfielder
+110,35,Mexico,179.0 cm,67,26,Oribe PERALTA,Forward
+111,29,Mexico,168.0 cm,53,0,Javier AQUINO,Midfielder
+112,21,Mexico,185.0 cm,17,1,Edson ALVAREZ,Defender
+113,23,Mexico,175.0 cm,32,8,Hirving LOZANO,Forward
+114,24,Mexico,176.0 cm,27,0,Jesus GALLARDO,Midfielder
+115,32,Saudi Arabia,178.0 cm,9,0,ABDULLAH ALMUAIOUF,Goalkeeper
+116,31,Saudi Arabia,170.0 cm,39,1,MANSOUR ALHARBI,Defender
+117,34,Saudi Arabia,185.0 cm,138,7,OSAMA HAWSAWI,Defender
+118,29,Saudi Arabia,182.0 cm,5,0,ALI ALBULAYHI,Defender
+119,33,Saudi Arabia,185.0 cm,41,3,OMAR OTHMAN,Defender
+120,26,Saudi Arabia,173.0 cm,12,0,MOHAMMED ALBURAYK,Defender
+121,29,Saudi Arabia,179.0 cm,42,3,SALMAN AL FARAJ,Midfielder
+122,28,Saudi Arabia,165.0 cm,58,7,YAHIA ALSHEHRI,Midfielder
+123,26,Saudi Arabia,170.0 cm,8,0,HATAN BAHBRI,Midfielder
+124,32,Saudi Arabia,180.0 cm,42,28,MOHAMMED AL SAHLAWI,Forward
+125,32,Saudi Arabia,175.0 cm,33,0,ABDULMALEK AL KHAIBRI,Midfielder
+126,24,Saudi Arabia,192.0 cm,7,1,MOHAMED KANNO,Midfielder
+127,26,Saudi Arabia,170.0 cm,38,0,YASIR AL SHAHRANI,Defender
+128,26,Saudi Arabia,177.0 cm,16,1,ABDULLAH OTAYF,Midfielder
+129,22,Saudi Arabia,175.0 cm,5,0,ABDULLAH ALKHAIBARI,Midfielder
+130,30,Saudi Arabia,174.0 cm,18,1,HUSSAIN AL MOQAHWI,Midfielder
+131,34,Saudi Arabia,169.0 cm,134,19,TAISEER AL JASSAM,Midfielder
+132,27,Saudi Arabia,174.0 cm,34,5,SALEM AL DAWSARI,Midfielder
+133,24,Saudi Arabia,168.0 cm,48,10,FAHAD AL MUWALLAD,Forward
+134,32,Saudi Arabia,178.0 cm,19,4,MUHANNAD ABU RADIYAH,Forward
+135,35,Saudi Arabia,184.0 cm,33,0,YASSER AL MOSAILEM,Goalkeeper
+136,27,Saudi Arabia,187.0 cm,7,0,MOHAMMED ALOWAIS,Goalkeeper
+137,27,Saudi Arabia,179.0 cm,17,0,MOTAZ HAWSAWI,Defender
+138,29,Sweden,198.0 cm,23,0,Robin OLSEN,Goalkeeper
+139,32,Sweden,189.0 cm,70,6,Mikael LUSTIG,Defender
+140,24,Sweden,187.0 cm,25,1,Victor LINDELOF,Defender
+141,33,Sweden,192.0 cm,77,8,Andreas GRANQVIST,Defender
+142,30,Sweden,178.0 cm,45,5,Martin OLSSON,Defender
+143,24,Sweden,181.0 cm,20,1,Ludwig AUGUSTINSSON,Defender
+144,33,Sweden,178.0 cm,109,6,Sebastian LARSSON,Midfielder
+145,29,Sweden,186.0 cm,39,0,Albin EKDAL,Midfielder
+146,32,Sweden,184.0 cm,62,18,Marcus BERG,Forward
+147,27,Sweden,179.0 cm,41,7,Emil FORSBERG,Midfielder
+148,26,Sweden,185.0 cm,22,1,John GUIDETTI,Forward
+149,29,Sweden,187.0 cm,5,0,Karl-Johan JOHNSSON,Goalkeeper
+150,32,Sweden,183.0 cm,16,0,Gustav SVENSSON,Midfielder
+151,25,Sweden,192.0 cm,4,0,Filip HELANDER,Defender
+152,26,Sweden,184.0 cm,24,2,Oscar HILJEMARK,Midfielder
+153,24,Sweden,184.0 cm,15,0,Emil KRAFTH,Defender
+154,27,Sweden,183.0 cm,27,3,Viktor CLAESSON,Midfielder
+155,28,Sweden,194.0 cm,17,0,Pontus JANSSON,Defender
+156,27,Sweden,182.0 cm,12,1,Marcus ROHDEN,Midfielder
+157,32,Sweden,191.0 cm,64,14,Ola TOIVONEN,Forward
+158,29,Sweden,180.0 cm,46,3,Jimmy DURMAZ,Midfielder
+159,26,Sweden,189.0 cm,24,2,Isaac THELIN,Forward
+160,29,Sweden,190.0 cm,8,0,Kristoffer NORDFELDT,Goalkeeper
+161,32,France,188.0 cm,108,0,Hugo LLORIS,Goalkeeper
+162,22,France,186.0 cm,12,1,Benjamin PAVARD,Defender
+163,23,France,183.0 cm,3,0,Presnel KIMPEMBE,Defender
+164,25,France,191.0 cm,49,3,Raphael VARANE,Defender
+165,25,France,182.0 cm,25,3,Samuel UMTITI,Defender
+166,25,France,191.0 cm,60,10,Paul POGBA,Midfielder
+167,27,France,175.0 cm,61,24,Antoine GRIEZMANN,Forward
+168,23,France,170.0 cm,13,3,Thomas LEMAR,Forward
+169,32,France,192.0 cm,81,31,Olivier GIROUD,Forward
+170,20,France,178.0 cm,22,8,Kylian MBAPPE,Forward
+171,21,France,178.0 cm,16,2,Ousmane DEMBELE,Forward
+172,24,France,181.0 cm,14,0,Corentin TOLISSO,Midfielder
+173,27,France,169.0 cm,31,1,N Golo KANTE,Midfielder
+174,31,France,180.0 cm,72,9,Blaise MATUIDI,Midfielder
+175,30,France,197.0 cm,9,0,Steven NZONZI,Midfielder
+176,33,France,185.0 cm,28,0,Steve MANDANDA,Goalkeeper
+177,33,France,190.0 cm,35,1,Adil RAMI,Defender
+178,25,France,173.0 cm,18,2,Nabil FEKIR,Forward
+179,26,France,182.0 cm,18,1,Djibril SIDIBE,Defender
+180,26,France,170.0 cm,5,0,Florian THAUVIN,Forward
+181,23,France,183.0 cm,12,0,Lucas HERNANDEZ,Defender
+182,24,France,185.0 cm,8,0,Benjamin MENDY,Defender
+183,26,France,195.0 cm,0,0,Alphonse AREOLA,Goalkeeper
+184,26,Senegal,191.0 cm,16,0,Abdoulaye DIALLO,Goalkeeper
+185,25,Senegal,180.0 cm,3,0,Adama MBENGUE,Defender
+186,27,Senegal,195.0 cm,29,1,Kalidou KOULIBALY,Defender
+187,29,Senegal,192.0 cm,43,5,Kara MBODJI,Defender
+188,29,Senegal,174.0 cm,58,1,Idrissa GUEYE,Midfielder
+189,28,Senegal,196.0 cm,21,0,Salif SANÉ,Midfielder
+190,33,Senegal,180.0 cm,46,19,Moussa SOW,Forward
+191,29,Senegal,189.0 cm,51,3,Cheikhou KOUYATE,Midfielder
+192,31,Senegal,185.0 cm,46,10,Mame DIOUF,Forward
+193,26,Senegal,175.0 cm,55,15,Sadio MANE,Forward
+194,32,Senegal,190.0 cm,29,3,Cheikh NDOYE,Midfielder
+195,25,Senegal,174.0 cm,9,0,Youssouf SABALY,Defender
+196,28,Senegal,186.0 cm,18,1,Alfred NDIAYE,Midfielder
+197,25,Senegal,183.0 cm,28,9,Moussa KONATE,Forward
+198,29,Senegal,184.0 cm,12,3,Diafra SAKHO,Forward
+199,33,Senegal,185.0 cm,45,0,Khadim NDIAYE,Goalkeeper
+200,28,Senegal,179.0 cm,17,1,Papa Alioune NDIAYE,Midfielder
+201,21,Senegal,175.0 cm,16,3,Ismaila SARR,Forward
+202,24,Senegal,184.0 cm,11,1,Mbaye NIANG,Forward
+203,23,Senegal,181.0 cm,19,3,Keita BALDE,Forward
+204,29,Senegal,181.0 cm,40,0,Lamine GASSAMA,Defender
+205,20,Senegal,177.0 cm,10,1,Moussa WAGUE,Defender
+206,25,Senegal,196.0 cm,5,0,Alfred GOMIS,Goalkeeper
+207,24,Croatia,188.0 cm,1,0,Dominik LIVAKOVIC,Goalkeeper
+208,27,Croatia,181.0 cm,41,0,Sime VRSALJKO,Defender
+209,31,Croatia,186.0 cm,49,0,Ivan STRINIC,Defender
+210,30,Croatia,186.0 cm,73,21,Ivan PERISIC,Forward
+211,33,Croatia,192.0 cm,103,4,Vedran CORLUKA,Defender
+212,29,Croatia,188.0 cm,46,2,Dejan LOVREN,Defender
+213,30,Croatia,184.0 cm,102,15,Ivan RAKITIC,Midfielder
+214,24,Croatia,178.0 cm,46,1,Mateo KOVACIC,Midfielder
+215,27,Croatia,177.0 cm,38,10,Andrej KRAMARIC,Forward
+216,33,Croatia,172.0 cm,118,14,Luka MODRIC,Midfielder
+217,26,Croatia,181.0 cm,41,6,Marcelo BROZOVIC,Midfielder
+218,28,Croatia,201.0 cm,12,0,Lovre KALINIC,Goalkeeper
+219,23,Croatia,184.0 cm,13,0,Tin JEDVAJ,Defender
+220,27,Croatia,185.0 cm,5,0,Filip BRADARIC,Midfielder
+221,22,Croatia,192.0 cm,2,0,Duje CALETA-CAR,Defender
+222,31,Croatia,187.0 cm,42,15,Nikola KALINIC,Forward
+223,32,Croatia,190.0 cm,89,33,Mario MANDZUKIC,Forward
+224,25,Croatia,185.0 cm,22,2,Ante Rebic,Forward
+225,30,Croatia,186.0 cm,41,2,Milan BADELJ,Midfielder
+226,23,Croatia,187.0 cm,19,1,Marko PJACA,Forward
+227,29,Croatia,184.0 cm,65,3,Domagoj VIDA,Defender
+228,30,Croatia,176.0 cm,23,0,Josip PIVARIC,Defender
+229,34,Croatia,191.0 cm,44,0,Danijel SUBASIC,Goalkeeper
+230,28,Poland,195.0 cm,37,0,Wojciech SZCZESNY,Goalkeeper
+231,31,Poland,181.0 cm,35,0,Michal PAZDAN,Defender
+232,,,,,,Artur JEDRZEJCZYK,
+233,32,Poland,184.0 cm,20,0,Thiago CIONEK,Defender
+234,22,Poland,189.0 cm,6,1,Jan BEDNAREK,Defender
+235,26,Poland,172.0 cm,7,0,Jacek GORALSKI,Midfielder
+236,25,Poland,186.0 cm,41,12,Arkadiusz MILIK,Forward
+237,24,Poland,176.0 cm,20,1,Karol LINETTY,Midfielder
+238,30,Poland,185.0 cm,102,55,Robert LEWANDOWSKI,Forward
+239,29,Poland,187.0 cm,54,3,Grzegorz KRYCHOWIAK,Midfielder
+240,30,Poland,180.0 cm,60,12,Kamil GROSICKI,Midfielder
+241,31,Poland,194.0 cm,1,0,Bartosz BIALKOWSKI,Goalkeeper
+242,29,Poland,173.0 cm,53,2,Maciej RYBUS,Midfielder
+243,27,Poland,185.0 cm,19,4,Lukasz TEODORCZYK,Forward
+244,31,Poland,190.0 cm,60,4,Kamil GLIK,Defender
+245,33,Poland,175.0 cm,105,20,Jakub BLASZCZYKOWSKI,Midfielder
+246,34,Poland,173.0 cm,44,2,Slawomir PESZKO,Midfielder
+247,26,Poland,182.0 cm,11,0,Bartosz BERESZYNSKI,Defender
+248,24,Poland,177.0 cm,36,5,Piotr ZIELINSKI,Midfielder
+249,33,Poland,184.0 cm,65,3,Lukasz PISZCZEK,Defender
+250,26,Poland,182.0 cm,4,0,Rafal KURZAWA,Midfielder
+251,33,Poland,190.0 cm,46,0,Lukasz FABIANSKI,Goalkeeper
+252,21,Poland,185.0 cm,4,1,Dawid KOWNACKI,Forward
+253,26,Brazil,191.0 cm,31,0,ALISSON,Goalkeeper
+254,34,Brazil,183.0 cm,76,6,THIAGO SILVA,Defender
+255,34,Brazil,186.0 cm,52,2,MIRANDA,Defender
+256,33,Brazil,190.0 cm,2,0,PEDRO GEROMEL,Defender
+257,27,Brazil,185.0 cm,28,0,CASEMIRO,Midfielder
+258,33,Brazil,182.0 cm,35,2,FILIPE LUIS,Defender
+259,28,Brazil,172.0 cm,27,3,DOUGLAS COSTA,Forward
+260,31,Brazil,186.0 cm,31,6,RENATO AUGUSTO,Midfielder
+261,21,Brazil,175.0 cm,22,10,GABRIEL JESUS,Forward
+262,27,Brazil,174.0 cm,90,57,NEYMAR,Forward
+263,26,Brazil,171.0 cm,41,12,PHILIPPE COUTINHO,Midfielder
+264,30,Brazil,174.0 cm,59,6,MARCELO,Defender
+265,24,Brazil,183.0 cm,27,0,MARQUINHOS,Defender
+266,27,Brazil,184.0 cm,19,0,DANILO,Defender
+267,30,Brazil,181.0 cm,55,13,PAULINHO,Midfielder
+268,31,Brazil,195.0 cm,1,0,CASSIO,Goalkeeper
+269,33,Brazil,176.0 cm,49,2,FERNANDINHO,Midfielder
+270,25,Brazil,169.0 cm,8,0,Fred,Midfielder
+271,30,Brazil,173.0 cm,62,8,WILLIAN,Midfielder
+272,27,Brazil,181.0 cm,25,7,ROBERTO FIRMINO,Forward
+273,31,Brazil,172.0 cm,8,1,TAISON,Forward
+274,29,Brazil,168.0 cm,8,0,FAGNER,Defender
+275,25,Brazil,188.0 cm,1,0,EDERSON,Goalkeeper
+276,35,Japan,185.0 cm,88,0,Eiji KAWASHIMA,Goalkeeper
+277,24,Japan,185.0 cm,4,0,Naomichi UEDA,Defender
+278,26,Japan,180.0 cm,15,1,Gen SHOJI,Defender
+279,32,Japan,181.0 cm,98,37,Keisuke HONDA,Midfielder
+280,32,Japan,170.0 cm,110,3,Yuto NAGATOMO,Defender
+281,26,Japan,176.0 cm,12,0,Wataru ENDO,Defender
+282,26,Japan,175.0 cm,22,3,Gaku SHIBASAKI,Midfielder
+283,27,Japan,177.0 cm,36,7,Genki HARAGUCHI,Midfielder
+284,32,Japan,174.0 cm,116,50,Shinji OKAZAKI,Forward
+285,29,Japan,175.0 cm,95,31,Shinji KAGAWA,Midfielder
+286,26,Japan,178.0 cm,26,3,Takashi USAMI,Midfielder
+287,32,Japan,184.0 cm,5,0,Masaaki HIGASHIGUCHI,Goalkeeper
+288,26,Japan,179.0 cm,24,2,Yoshinori MUTO,Forward
+289,30,Japan,169.0 cm,31,6,Takashi INUI,Midfielder
+290,28,Japan,182.0 cm,33,8,Yuya OSAKO,Forward
+291,28,Japan,173.0 cm,45,2,Hotaru YAMAGUCHI,Midfielder
+292,35,Japan,177.0 cm,114,2,Makoto HASEBE,Midfielder
+293,26,Japan,168.0 cm,5,0,Ryota OHSHIMA,Midfielder
+294,28,Japan,185.0 cm,47,0,Hiroki SAKAI,Defender
+295,31,Japan,182.0 cm,33,4,Tomoaki MAKINO,Defender
+296,27,Japan,176.0 cm,42,0,Gotoku SAKAI,Defender
+297,30,Japan,186.0 cm,86,10,Maya YOSHIDA,Defender
+298,24,Japan,184.0 cm,4,0,Kosuke NAKAMURA,Goalkeeper
+299,30,Colombia,183.0 cm,87,0,David OSPINA,Goalkeeper
+300,32,Colombia,187.0 cm,53,2,Cristian ZAPATA,Defender
+301,30,Colombia,184.0 cm,14,0,Oscar MURILLO,Defender
+302,27,Colombia,177.0 cm,45,0,Santiago ARIAS,Defender
+303,25,Colombia,178.0 cm,13,0,Wilmar BARRIOS,Midfielder
+304,33,Colombia,182.0 cm,83,0,Carlos SANCHEZ,Midfielder
+305,32,Colombia,181.0 cm,48,14,Carlos BACCA,Forward
+306,34,Colombia,185.0 cm,70,8,Abel AGUILAR,Midfielder
+307,33,Colombia,177.0 cm,69,30,FALCAO,Forward
+308,27,Colombia,180.0 cm,66,21,James RODRIGUEZ,Midfielder
+309,30,Colombia,179.0 cm,73,8,Juan CUADRADO,Midfielder
+310,29,Colombia,185.0 cm,5,0,Camilo VARGAS,Goalkeeper
+311,24,Colombia,195.0 cm,15,6,Yerry MINA,Defender
+312,27,Colombia,179.0 cm,20,2,Luis MURIEL,Forward
+313,27,Colombia,182.0 cm,11,0,Mateus URIBE,Midfielder
+314,24,Colombia,170.0 cm,9,0,Jefferson LERMA,Midfielder
+315,26,Colombia,179.0 cm,8,1,Johan MOJICA,Defender
+316,35,Colombia,170.0 cm,13,0,Farid DIAZ,Defender
+317,26,Colombia,183.0 cm,8,2,Miguel BORJA,Forward
+318,26,Colombia,169.0 cm,19,3,Juan QUINTERO,Midfielder
+319,26,Colombia,171.0 cm,6,1,Jose IZQUIERDO,Forward
+320,33,Colombia,180.0 cm,1,0,Jose CUADRADO,Goalkeeper
+321,22,Colombia,187.0 cm,13,0,Davinson SANCHEZ,Defender
+322,28,Spain,192.0 cm,33,0,David DE GEA,Goalkeeper
+323,27,Spain,173.0 cm,18,0,Dani CARVAJAL,Defender
+324,32,Spain,194.0 cm,102,5,Gerard PIQUE,Defender
+325,29,Spain,179.0 cm,19,1,NACHO,Defender
+326,30,Spain,189.0 cm,111,2,Sergio BUSQUETS,Midfielder
+327,34,Spain,171.0 cm,131,13,Andres INIESTA,Midfielder
+328,24,Spain,184.0 cm,10,0,SAUL,Midfielder
+329,27,Spain,177.0 cm,43,0,KOKE,Midfielder
+330,27,Spain,182.0 cm,9,2,RODRIGO,Forward
+331,27,Spain,174.0 cm,31,2,THIAGO,Midfielder
+332,27,Spain,173.0 cm,9,0,Lucas VAZQUEZ,Forward
+333,23,Spain,175.0 cm,4,1,Alvaro ODRIOZOLA,Defender
+334,24,Spain,189.0 cm,1,0,Kepa ARRIZABALAGA,Goalkeeper
+335,29,Spain,178.0 cm,22,0,Cesar AZPILICUETA,Defender
+336,32,Spain,184.0 cm,161,13,Sergio RAMOS,Defender
+337,33,Spain,178.0 cm,22,1,Nacho MONREAL,Defender
+338,31,Spain,176.0 cm,13,6,IAGO ASPAS,Forward
+339,29,Spain,170.0 cm,66,8,Jordi ALBA,Defender
+340,30,Spain,188.0 cm,24,10,Diego COSTA,Forward
+341,23,Spain,182.0 cm,15,0,Marco ASENSIO,Midfielder
+342,33,Spain,170.0 cm,125,35,David SILVA,Forward
+343,26,Spain,176.0 cm,32,11,ISCO,Midfielder
+344,36,Spain,188.0 cm,36,0,Pepe REINA,Goalkeeper
+345,30,Switzerland,183.0 cm,39,0,Yann SOMMER,Goalkeeper
+346,35,Switzerland,182.0 cm,104,8,Stephan LICHTSTEINER,Defender
+347,28,Switzerland,180.0 cm,18,0,Francois MOUBANDJE,Defender
+348,22,Switzerland,188.0 cm,6,0,Nico ELVEDI,Defender
+349,23,Switzerland,187.0 cm,11,0,Manuel AKANJI,Defender
+350,28,Switzerland,185.0 cm,27,2,Michael LANG,Defender
+351,22,Switzerland,185.0 cm,29,3,Breel EMBOLO,Forward
+352,26,Switzerland,181.0 cm,10,0,Remo FREULER,Midfielder
+353,27,Switzerland,185.0 cm,54,12,Haris SEFEROVIC,Forward
+354,26,Switzerland,185.0 cm,66,10,Granit XHAKA,Midfielder
+355,33,Switzerland,184.0 cm,83,2,Valon BEHRAMI,Midfielder
+356,24,Switzerland,190.0 cm,0,0,Yvon MVOGO,Goalkeeper
+357,26,Switzerland,181.0 cm,57,5,Ricardo RODRIGUEZ,Defender
+358,27,Switzerland,182.0 cm,15,4,Steven ZUBER,Midfielder
+359,32,Switzerland,179.0 cm,69,11,Blerim DZEMAILI,Midfielder
+360,32,Switzerland,179.0 cm,67,2,Gelson FERNANDES,Midfielder
+361,22,Switzerland,191.0 cm,12,0,Denis ZAKARIA,Midfielder
+362,29,Switzerland,175.0 cm,16,5,Mario GAVRANOVIC,Forward
+363,26,Switzerland,183.0 cm,32,10,Josip DRMIC,Forward
+364,32,Switzerland,192.0 cm,75,2,Johan DJOUROU,Defender
+365,28,Switzerland,187.0 cm,9,0,Roman BUERKI,Goalkeeper
+366,27,Switzerland,186.0 cm,42,7,Fabian SCHAER,Defender
+367,27,Switzerland,169.0 cm,74,21,Xherdan SHAQIRI,Midfielder
+368,32,Denmark,190.0 cm,39,0,Kasper SCHMEICHEL,Goalkeeper
+369,35,Denmark,171.0 cm,59,6,Michael KROHN-DEHLI,Midfielder
+370,26,Denmark,199.0 cm,16,1,Jannik VESTERGAARD,Defender
+371,29,Denmark,191.0 cm,79,3,Simon KJAER,Defender
+372,26,Denmark,187.0 cm,4,0,Jonas KNUDSEN,Defender
+373,22,Denmark,188.0 cm,20,1,Andreas CHRISTENSEN,Defender
+374,34,Denmark,184.0 cm,81,2,William KVIST,Midfielder
+375,27,Denmark,180.0 cm,31,4,Thomas DELANEY,Midfielder
+376,28,Denmark,190.0 cm,34,8,Nicolai JORGENSEN,Forward
+377,27,Denmark,181.0 cm,82,23,Christian ERIKSEN,Midfielder
+378,27,Denmark,180.0 cm,24,1,Martin BRAITHWAITE,Forward
+379,21,Denmark,187.0 cm,7,1,Kasper DOLBERG,Forward
+380,28,Denmark,191.0 cm,15,1,Mathias JORGENSEN,Defender
+381,29,Denmark,190.0 cm,15,0,Henrik DALSGAARD,Defender
+382,24,Denmark,181.0 cm,20,3,Viktor FISCHER,Forward
+383,30,Denmark,195.0 cm,1,0,Jonas LOSSL,Goalkeeper
+384,28,Denmark,182.0 cm,16,1,Jens LARSEN,Defender
+385,25,Denmark,186.0 cm,5,0,Lukas LERAGER,Midfielder
+386,32,Denmark,178.0 cm,39,3,Lasse SCHONE,Midfielder
+387,24,Denmark,193.0 cm,31,5,Yussuf POULSEN,Forward
+388,25,Denmark,195.0 cm,21,4,Andreas CORNELIUS,Forward
+389,26,Denmark,190.0 cm,6,0,Frederik RONNOW,Goalkeeper
+390,24,Denmark,173.0 cm,18,1,Sisto EMIRMIJA,Forward
+391,37,Panama,183.0 cm,134,0,Jaime PENEDO,Goalkeeper
+392,23,Panama,183.0 cm,24,2,Michael MURILLO,Defender
+393,27,Panama,183.0 cm,48,0,Harold CUMMINGS,Defender
+394,24,Panama,182.0 cm,26,1,Fidel ESCOBAR,Defender
+395,32,Panama,188.0 cm,112,10,Roman TORRES,Defender
+396,34,Panama,183.0 cm,145,11,Gabriel GOMEZ,Midfielder
+397,37,Panama,187.0 cm,119,43,Blas PEREZ,Forward
+398,25,Panama,175.0 cm,32,0,Edgar BARCENAS,Midfielder
+399,30,Panama,180.0 cm,74,14,Gabriel TORRES,Forward
+400,21,Panama,181.0 cm,9,2,Ismael DIAZ,Forward
+401,31,Panama,175.0 cm,101,7,Armando COOPER,Midfielder
+402,33,Panama,187.0 cm,32,0,Jose CALDERON,Goalkeeper
+403,34,Panama,182.0 cm,77,1,Adolfo MACHADO,Defender
+404,27,Panama,189.0 cm,23,1,Valentin PIMENTEL,Midfielder
+405,27,Panama,179.0 cm,40,0,Eric DAVIS,Defender
+406,25,Panama,187.0 cm,35,5,Abdiel ARROYO,Forward
+407,30,Panama,178.0 cm,26,0,Luis OVALLE,Defender
+408,36,Panama,183.0 cm,106,43,Luis TEJADA,Forward
+409,22,Panama,182.0 cm,7,0,Ricardo AVILA,Midfielder
+410,29,Panama,183.0 cm,91,1,Anibal GODOY,Midfielder
+411,20,Panama,180.0 cm,5,0,Jose Luis RODRIGUEZ,Midfielder
+412,28,Panama,197.0 cm,6,0,Alex RODRIGUEZ,Goalkeeper
+413,38,Panama,185.0 cm,101,4,Felipe BALOY,Defender
+414,29,Tunisia,192.0 cm,16,0,Farouk BEN MUSTAPHA,Goalkeeper
+415,29,Tunisia,189.0 cm,44,1,Syam BEN YOUSSEF,Defender
+416,31,Tunisia,185.0 cm,5,0,Yohan BEN ALOUANE,Defender
+417,25,Tunisia,180.0 cm,20,1,Yassine MERIAH,Defender
+418,27,Tunisia,184.0 cm,9,1,Oussama HADDADI,Defender
+419,29,Tunisia,187.0 cm,11,3,Rami BEDOUI,Defender
+420,23,Tunisia,180.0 cm,6,0,Saifeddine KHAOUI,Forward
+421,27,Tunisia,189.0 cm,42,6,Fakhreddine BEN YOUSSEF,Forward
+422,28,Tunisia,177.0 cm,13,3,Anice BADRI,Midfielder
+423,28,Tunisia,182.0 cm,39,14,Wahbi KHAZRI,Forward
+424,23,Tunisia,186.0 cm,7,1,Dylan BRONN,Defender
+425,29,Tunisia,175.0 cm,49,8,Ali MAALOUL,Defender
+426,26,Tunisia,186.0 cm,44,4,Ferjani SASSI,Midfielder
+427,26,Tunisia,180.0 cm,27,2,Mohamed BEN AMOR,Midfielder
+428,24,Tunisia,187.0 cm,3,0,Ahmed KHALIL,Forward
+429,34,Tunisia,182.0 cm,72,0,Aymen MATHLOUTHI,Goalkeeper
+430,23,Tunisia,185.0 cm,8,0,Ellyes SKHIRI,Midfielder
+431,21,Tunisia,176.0 cm,6,0,Bassem SRARFI,Forward
+432,32,Tunisia,183.0 cm,45,7,Saber Khlifa,Forward
+433,25,Tunisia,179.0 cm,7,1,Ghaylen CHAALELI,Forward
+434,26,Tunisia,186.0 cm,19,5,Hamdi NAGUEZ,Defender
+435,23,Tunisia,186.0 cm,4,0,Mouez HASSEN,Goalkeeper
+436,26,Tunisia,173.0 cm,22,3,Naim SLITI,Forward
+437,32,Uruguay,190.0 cm,105,0,Fernando MUSLERA,Goalkeeper
+438,24,Uruguay,185.0 cm,46,6,Jose GIMENEZ,Defender
+439,33,Uruguay,187.0 cm,124,8,Diego GODIN,Defender
+440,25,Uruguay,173.0 cm,5,0,Guillermo VARELA,Defender
+441,34,Uruguay,171.0 cm,38,1,Carlos SANCHEZ,Midfielder
+442,21,Uruguay,187.0 cm,12,0,Rodrigo BENTANCUR,Midfielder
+443,33,Uruguay,178.0 cm,110,11,Cristian RODRIGUEZ,Midfielder
+444,23,Uruguay,171.0 cm,17,0,Nahitan NANDEZ,Midfielder
+445,32,Uruguay,182.0 cm,106,53,Luis SUAREZ,Forward
+446,24,Uruguay,172.0 cm,16,2,Giorgian DE ARRASCAETA,Forward
+447,32,Uruguay,184.0 cm,43,5,Cristhian STUANI,Forward
+448,29,Uruguay,186.0 cm,1,0,Martin CAMPANA,Goalkeeper
+449,24,Uruguay,183.0 cm,17,0,Gaston SILVA,Defender
+450,23,Uruguay,168.0 cm,8,0,Lucas TORREIRA,Midfielder
+451,27,Uruguay,188.0 cm,27,1,Matias VECINO,Midfielder
+452,34,Uruguay,173.0 cm,125,3,Maximiliano PEREIRA,Defender
+453,26,Uruguay,177.0 cm,10,0,Diego LAXALT,Midfielder
+454,22,Uruguay,186.0 cm,7,0,Maximiliano GOMEZ,Forward
+455,28,Uruguay,196.0 cm,31,1,Sebastian COATES,Defender
+456,28,Uruguay,174.0 cm,5,0,Jonathan URRETAVISCAYA,Forward
+457,32,Uruguay,184.0 cm,109,45,Edinson CAVANI,Forward
+458,31,Uruguay,182.0 cm,81,4,Martin CACERES,Defender
+459,35,Uruguay,187.0 cm,11,0,Martin SILVA,Goalkeeper
+460,31,Portugal,188.0 cm,73,0,RUI PATRICIO,Goalkeeper
+461,37,Portugal,187.0 cm,96,11,BRUNO ALVES,Defender
+462,36,Portugal,188.0 cm,103,6,PEPE,Defender
+463,33,Portugal,176.0 cm,15,3,MANUEL FERNANDES,Midfielder
+464,25,Portugal,170.0 cm,28,2,RAPHAEL GUERREIRO,Defender
+465,35,Portugal,187.0 cm,35,0,JOSE FONTE,Defender
+466,34,Portugal,187.0 cm,154,85,CRISTIANO RONALDO,Forward
+467,32,Portugal,170.0 cm,113,7,JOAO MOUTINHO,Midfielder
+468,23,Portugal,184.0 cm,25,12,ANDRE SILVA,Forward
+469,26,Portugal,179.0 cm,40,2,JOAO MARIO,Midfielder
+470,24,Portugal,173.0 cm,29,2,BERNARDO SILVA,Midfielder
+471,28,Portugal,184.0 cm,7,0,ANTHONY LOPES,Goalkeeper
+472,21,Portugal,187.0 cm,1,0,RUBEN DIAS,Defender
+473,26,Portugal,188.0 cm,47,2,WILLIAM,Midfielder
+474,25,Portugal,175.0 cm,5,0,Ricardo PEREIRA,Defender
+475,24,Portugal,175.0 cm,8,1,BRUNO FERNANDES,Midfielder
+476,22,Portugal,179.0 cm,14,3,Gonçalo GUEDES,Forward
+477,23,Portugal,186.0 cm,19,0,GELSON MARTINS,Forward
+478,27,Portugal,168.0 cm,4,0,MARIO RUI,Defender
+479,35,Portugal,174.0 cm,80,10,RICARDO QUARESMA,Forward
+480,27,Portugal,172.0 cm,32,1,CEDRIC,Defender
+481,36,Portugal,182.0 cm,14,0,BETO,Goalkeeper
+482,29,Portugal,175.0 cm,27,1,ADRIEN SILVA,Midfielder
+483,26,Australia,184.0 cm,47,0,Maty RYAN,Goalkeeper
+484,24,Australia,187.0 cm,18,0,Milos DEGENEK,Defender
+485,30,Australia,179.0 cm,2,0,James MEREDITH,Defender
+486,39,Australia,180.0 cm,108,50,Tim CAHILL,Forward
+487,33,Australia,178.0 cm,71,6,Mark MILLIGAN,Defender
+488,29,Australia,190.0 cm,4,0,Matthew JURMAN,Defender
+489,28,Australia,182.0 cm,56,8,Mathew LECKIE,Forward
+490,26,Australia,176.0 cm,36,5,Massimo LUONGO,Midfielder
+491,27,Australia,191.0 cm,38,8,Tomi JURIC,Forward
+492,30,Australia,180.0 cm,67,5,Robbie KRUSE,Forward
+493,26,Australia,178.0 cm,6,1,Andrew NABBOUT,Forward
+494,36,Australia,194.0 cm,6,0,Brad JONES,Goalkeeper
+495,28,Australia,174.0 cm,37,5,Aaron MOOY,Midfielder
+496,25,Australia,174.0 cm,6,0,Jamie MacLAREN,Forward
+497,34,Australia,188.0 cm,79,20,Mile JEDINAK,Midfielder
+498,28,Australia,171.0 cm,26,2,Aziz BEHICH,Defender
+499,20,Australia,171.0 cm,5,1,Daniel ARZANI,Forward
+500,33,Australia,188.0 cm,1,0,Danny VUKOVIC,Goalkeeper
+501,26,Australia,174.0 cm,11,0,Joshua RISDON,Defender
+502,27,Australia,184.0 cm,38,3,Trent SAINSBURY,Defender
+503,26,Australia,176.0 cm,2,0,Dimitrios PETRATOS,Forward
+504,25,Australia,180.0 cm,22,2,Jackson IRVINE,Midfielder
+505,26,Australia,189.0 cm,40,7,Tommy ROGIC,Midfielder
+506,32,Germany,193.0 cm,79,0,Manuel NEUER,Goalkeeper
+507,27,Germany,181.0 cm,7,0,Marvin PLATTENHARDT,Defender
+508,28,Germany,185.0 cm,40,3,Jonas HECTOR,Defender
+509,25,Germany,188.0 cm,18,0,Matthias GINTER,Defender
+510,30,Germany,191.0 cm,66,5,Mats HUMMELS,Defender
+511,31,Germany,189.0 cm,77,7,Sami KHEDIRA,Midfielder
+512,25,Germany,185.0 cm,46,6,Julian DRAXLER,Midfielder
+513,29,Germany,183.0 cm,86,13,Toni KROOS,Midfielder
+514,22,Germany,180.0 cm,17,8,Timo WERNER,Forward
+515,30,Germany,183.0 cm,92,23,Mesut OEZIL,Midfielder
+516,29,Germany,180.0 cm,34,10,Marco REUS,Forward
+517,28,Germany,189.0 cm,3,0,Kevin TRAPP,Goalkeeper
+518,29,Germany,186.0 cm,94,38,Thomas MUELLER,Midfielder
+519,24,Germany,189.0 cm,16,6,Leon GORETZKA,Midfielder
+520,23,Germany,195.0 cm,12,0,Niklas SUELE,Defender
+521,26,Germany,190.0 cm,25,1,Antonio RUEDIGER,Defender
+522,30,Germany,192.0 cm,73,1,Jerome BOATENG,Defender
+523,24,Germany,176.0 cm,32,3,Joshua KIMMICH,Defender
+524,29,Germany,180.0 cm,26,1,Sebastian RUDY,Midfielder
+525,22,Germany,185.0 cm,19,1,Julian BRANDT,Midfielder
+526,28,Germany,180.0 cm,27,4,Ilkay GUNDOGAN,Midfielder
+527,26,Germany,189.0 cm,20,0,Marc-Andre TER STEGEN,Goalkeeper
+528,33,Germany,189.0 cm,78,31,Mario GOMEZ,Forward
+529,32,Costa Rica,185.0 cm,84,0,Keylor NAVAS,Goalkeeper
+530,35,Costa Rica,176.0 cm,69,2,Johnny ACOSTA,Defender
+531,31,Costa Rica,186.0 cm,71,2,Giancarlo GONZALEZ,Defender
+532,20,Costa Rica,177.0 cm,5,0,Ian SMITH,Defender
+533,30,Costa Rica,182.0 cm,116,18,Celso BORGES,Midfielder
+534,29,Costa Rica,186.0 cm,38,2,Oscar DUARTE,Defender
+535,34,Costa Rica,178.0 cm,84,7,Christian BOLANOS,Midfielder
+536,29,Costa Rica,172.0 cm,44,1,Bryan OVIEDO,Defender
+537,34,Costa Rica,180.0 cm,13,0,Daniel COLINDRES,Midfielder
+538,33,Costa Rica,187.0 cm,116,24,Bryan RUIZ,Midfielder
+539,30,Costa Rica,183.0 cm,49,10,Johan VENEGAS,Forward
+540,26,Costa Rica,178.0 cm,79,15,Joel CAMPBELL,Forward
+541,30,Costa Rica,180.0 cm,29,4,Rodney WALLACE,Midfielder
+542,34,Costa Rica,182.0 cm,60,3,Randall AZOFEIFA,Midfielder
+543,26,Costa Rica,180.0 cm,38,4,Francisco CALVO,Defender
+544,29,Costa Rica,173.0 cm,71,3,Cristian GAMBOA,Defender
+545,26,Costa Rica,179.0 cm,50,0,Yeltsin TEJEDA,Midfielder
+546,36,Costa Rica,178.0 cm,39,0,Patrick PEMBERTON,Goalkeeper
+547,31,Costa Rica,196.0 cm,26,3,Kendall WASTON,Defender
+548,29,Costa Rica,176.0 cm,48,0,David GUZMAN,Midfielder
+549,28,Costa Rica,181.0 cm,64,14,Marcos URENA,Forward
+550,29,Costa Rica,178.0 cm,9,0,Kenner GUTIERREZ,Defender
+551,28,Costa Rica,177.0 cm,9,0,Leonel MOREIRA,Goalkeeper
+552,35,Serbia,195.0 cm,84,0,Vladimir STOJKOVIC,Goalkeeper
+553,35,Serbia,177.0 cm,49,0,Antonio RUKAVINA,Defender
+554,34,Serbia,185.0 cm,26,1,Dusko TOSIC,Defender
+555,27,Serbia,182.0 cm,30,1,Luka MILIVOJEVIC,Midfielder
+556,26,Serbia,186.0 cm,5,0,Uros SPAJIC,Defender
+557,35,Serbia,182.0 cm,105,13,Branislav IVANOVIC,Defender
+558,22,Serbia,170.0 cm,11,0,Andrija ZIVKOVIC,Midfielder
+559,28,Serbia,190.0 cm,10,1,Aleksandar PRIJOVIC,Forward
+560,24,Serbia,189.0 cm,41,17,Aleksandar MITROVIC,Forward
+561,30,Serbia,181.0 cm,56,12,Dusan TADIC,Midfielder
+562,33,Serbia,187.0 cm,79,11,Aleksandar KOLAROV,Defender
+563,23,Serbia,192.0 cm,8,0,Predrag RAJKOVIC,Goalkeeper
+564,23,Serbia,184.0 cm,3,0,Milos VELJKOVIC,Defender
+565,27,Serbia,185.0 cm,1,0,Milan RODIC,Defender
+566,21,Serbia,195.0 cm,6,0,Nikola MILENKOVIC,Defender
+567,22,Serbia,190.0 cm,7,0,Marko GRUJIC,Midfielder
+568,26,Serbia,184.0 cm,26,2,Filip KOSTIC,Midfielder
+569,23,Serbia,185.0 cm,5,0,Nemanja RADONJIC,Forward
+570,21,Serbia,181.0 cm,2,0,Luka JOVIC,Forward
+571,24,Serbia,192.0 cm,7,0,Sergej MILINKOVIC-SAVIC,Midfielder
+572,30,Serbia,194.0 cm,43,2,Nemanja MATIC,Midfielder
+573,27,Serbia,182.0 cm,33,6,Adem Ljajic,Midfielder
+574,27,Serbia,194.0 cm,2,0,Marko DMITROVIC,Goalkeeper
+575,34,Iceland,194.0 cm,52,0,Hannes HALLDORSSON,Goalkeeper
+576,34,Iceland,187.0 cm,82,1,Birkir SAEVARSSON,Defender
+577,23,Iceland,185.0 cm,4,1,Samuel FRIDJONSSON,Midfielder
+578,21,Iceland,177.0 cm,6,3,Albert GUDMUNDSSON,Midfielder
+579,25,Iceland,188.0 cm,22,3,Sverrir INGASON,Defender
+580,32,Iceland,187.0 cm,80,3,Ragnar SIGURDSSON,Defender
+581,28,Iceland,186.0 cm,69,7,Johann GUDMUNDSSON,Midfielder
+582,30,Iceland,182.0 cm,70,9,Birkir BJARNASON,Midfielder
+583,28,Iceland,185.0 cm,16,1,Bjorn SIGURDARSON,Forward
+584,29,Iceland,186.0 cm,60,20,Gylfi SIGURDSSON,Midfielder
+585,30,Iceland,184.0 cm,50,14,Alfred FINNBOGASON,Forward
+586,24,Iceland,198.0 cm,4,0,Frederik SCHRAM,Goalkeeper
+587,24,Iceland,186.0 cm,3,0,Runar RUNARSSON,Goalkeeper
+588,36,Iceland,190.0 cm,69,5,Kari ARNASON,Defender
+589,28,Iceland,190.0 cm,10,1,Holmar EYJOLFSSON,Defender
+590,35,Iceland,184.0 cm,36,1,Olafur SKULASON,Midfielder
+591,29,Iceland,177.0 cm,80,2,Aron GUNNARSSON,Midfielder
+592,26,Iceland,190.0 cm,19,2,Hordur MAGNUSSON,Defender
+593,31,Iceland,184.0 cm,49,3,Rurik GISLASON,Midfielder
+594,34,Iceland,185.0 cm,66,1,Emil HALLFREDSSON,Midfielder
+595,25,Iceland,183.0 cm,20,5,Arnor TRAUSTASON,Midfielder
+596,26,Iceland,190.0 cm,39,2,Jon BODVARSSON,Forward
+597,31,Iceland,170.0 cm,58,0,Ari SKULASON,Defender
+598,24,England,185.0 cm,10,0,Jordan PICKFORD,Goalkeeper
+599,28,England,178.0 cm,40,0,Kyle WALKER,Defender
+600,28,England,173.0 cm,23,0,Danny ROSE,Defender
+601,25,England,188.0 cm,32,3,Eric DIER,Midfielder
+602,24,England,188.0 cm,33,2,John STONES,Defender
+603,25,England,188.0 cm,12,1,Harry MAGUIRE,Defender
+604,26,England,174.0 cm,18,2,Jesse LINGARD,Midfielder
+605,28,England,182.0 cm,44,0,Jordan HENDERSON,Midfielder
+606,25,England,188.0 cm,30,19,Harry KANE,Forward
+607,24,England,170.0 cm,44,2,Raheem STERLING,Forward
+608,32,England,178.0 cm,26,7,Jamie VARDY,Forward
+609,28,England,178.0 cm,13,1,Kieran TRIPPIER,Defender
+610,25,England,196.0 cm,8,0,Jack BUTLAND,Goalkeeper
+611,28,England,185.0 cm,40,16,Danny Welbeck,Forward
+612,33,England,188.0 cm,61,5,Gary CAHILL,Defender
+613,27,England,180.0 cm,27,0,Phil JONES,Defender
+614,29,England,174.0 cm,15,0,Fabian DELPH,Defender
+615,33,England,176.0 cm,39,7,Ashley YOUNG,Defender
+616,21,England,180.0 cm,25,3,Marcus RASHFORD,Forward
+617,22,England,188.0 cm,30,3,Dele ALLI,Midfielder
+618,23,England,190.0 cm,8,0,Ruben LOFTUS-CHEEK,Midfielder
+619,20,England,175.0 cm,2,0,Trent ALEXANDER-ARNOLD,Defender
+620,26,England,191.0 cm,1,0,Nick POPE,Goalkeeper
+621,30,Nigeria,181.0 cm,24,0,Ikechukwu EZENWA,Goalkeeper
+622,26,Nigeria,179.0 cm,8,1,Bryan IDOWU,Defender
+623,31,Nigeria,185.0 cm,59,2,Elderson ECHIEJILE,Defender
+624,22,Nigeria,187.0 cm,20,0,Onyinye NDIDI,Midfielder
+625,25,Nigeria,191.0 cm,24,1,William EKONG,Defender
+626,30,Nigeria,190.0 cm,22,0,Leon BALOGUN,Defender
+627,26,Nigeria,170.0 cm,73,15,Ahmed MUSA,Forward
+628,23,Nigeria,174.0 cm,15,1,Oghenekaro ETEBO,Midfielder
+629,29,Nigeria,188.0 cm,22,4,Odion IGHALO,Forward
+630,31,Nigeria,188.0 cm,85,6,John Obi MIKEL,Midfielder
+631,28,Nigeria,178.0 cm,34,12,Victor MOSES,Forward
+632,25,Nigeria,181.0 cm,16,0,Abdullahi SHEHU,Defender
+633,26,Nigeria,197.0 cm,4,0,Simeon NWANKWO,Forward
+634,22,Nigeria,185.0 cm,20,8,Kelechi IHEANACHO,Forward
+635,,,,,,Joel OBI,
+636,32,Nigeria,186.0 cm,6,0,Daniel AKPEYI,Goalkeeper
+637,26,Nigeria,173.0 cm,50,1,Ogenyi ONAZI,Midfielder
+638,22,Nigeria,180.0 cm,21,5,Alexander IWOBI,Forward
+639,30,Nigeria,192.0 cm,19,2,John OGU,Midfielder
+640,22,Nigeria,189.0 cm,3,0,Chidozie AWAZIEM,Defender
+641,23,Nigeria,187.0 cm,8,0,Tyronne EBUEHI,Defender
+642,25,Nigeria,185.0 cm,40,0,Kenneth OMERUO,Defender
+643,20,Nigeria,196.0 cm,9,0,Francis UZOHO,Goalkeeper
+644,33,Argentina,193.0 cm,6,0,Nahuel GUZMAN,Goalkeeper
+645,31,Argentina,181.0 cm,23,4,Gabriel MERCADO,Defender
+646,26,Argentina,169.0 cm,8,0,Nicolas TAGLIAFICO,Defender
+647,32,Argentina,181.0 cm,5,1,Cristian ANSALDI,Defender
+648,33,Argentina,178.0 cm,58,1,Lucas BIGLIA,Midfielder
+649,31,Argentina,195.0 cm,10,1,Federico FAZIO,Defender
+650,30,Argentina,174.0 cm,65,6,Ever BANEGA,Midfielder
+651,27,Argentina,172.0 cm,11,0,Marcos ACUNA,Defender
+652,31,Argentina,186.0 cm,75,31,Gonzalo HIGUAIN,Forward
+653,31,Argentina,170.0 cm,128,65,Lionel MESSI,Forward
+654,31,Argentina,180.0 cm,97,20,Angel DI MARIA,Midfielder
+655,32,Argentina,189.0 cm,2,0,Franco ARMANI,Goalkeeper
+656,26,Argentina,180.0 cm,6,0,Maximiliano MEZA,Midfielder
+657,34,Argentina,174.0 cm,147,3,Javier MASCHERANO,Defender
+658,33,Argentina,178.0 cm,26,1,Enzo PEREZ,Midfielder
+659,28,Argentina,187.0 cm,59,3,Marcos ROJO,Defender
+660,31,Argentina,184.0 cm,58,4,Nicolas OTAMENDI,Defender
+661,28,Argentina,173.0 cm,11,0,Eduardo Salvio,Defender
+662,30,Argentina,173.0 cm,89,39,Sergio AGUERO,Forward
+663,22,Argentina,177.0 cm,5,0,Giovani LO CELSO,Midfielder
+664,25,Argentina,177.0 cm,13,0,Paulo DYBALA,Forward
+665,23,Argentina,167.0 cm,9,0,Cristian PAVON,Midfielder
+666,37,Argentina,186.0 cm,5,0,Wilfredo CABALLERO,Goalkeeper
+667,28,Korea Republic,187.0 cm,33,0,KIM Seunggyu,Goalkeeper
+668,32,Korea Republic,180.0 cm,31,0,LEE Yong,Defender
+669,24,Korea Republic,188.0 cm,6,0,JUNG Seunghyun,Defender
+670,30,Korea Republic,189.0 cm,2,0,OH Bansuk,Defender
+671,30,Korea Republic,185.0 cm,7,0,YUN Youngsun,Defender
+672,32,Korea Republic,174.0 cm,37,0,PARK Jooho,Defender
+673,26,Korea Republic,183.0 cm,70,23,SON Heungmin,Forward
+674,28,Korea Republic,176.0 cm,12,1,JU Sejong,Midfielder
+675,30,Korea Republic,197.0 cm,51,10,KIM Shinwook,Forward
+676,21,Korea Republic,170.0 cm,6,0,LEE Seungwoo,Midfielder
+677,23,Korea Republic,177.0 cm,17,2,HWANG Heechan,Forward
+678,29,Korea Republic,172.0 cm,22,1,KIM Minwoo,Defender
+679,30,Korea Republic,183.0 cm,70,19,KOO Jacheol,Midfielder
+680,28,Korea Republic,176.0 cm,16,0,HONG Chul,Defender
+681,29,Korea Republic,188.0 cm,32,1,JUNG Wooyoung,Midfielder
+682,30,Korea Republic,187.0 cm,109,10,KI Sungyueng,Midfielder
+683,26,Korea Republic,180.0 cm,38,6,LEE Jaesung,Midfielder
+684,26,Korea Republic,172.0 cm,5,1,MOON Seonmin,Midfielder
+685,29,Korea Republic,184.0 cm,56,3,KIM Younggwon,Defender
+686,27,Korea Republic,187.0 cm,54,3,JANG Hyunsoo,Defender
+687,31,Korea Republic,193.0 cm,15,0,KIM Jinhyeon,Goalkeeper
+688,30,Korea Republic,170.0 cm,20,0,GO Yohan,Defender
+689,27,Korea Republic,189.0 cm,9,0,JO Hyeonwoo,Goalkeeper
+690,32,Russia,186.0 cm,111,0,Igor AKINFEEV,Goalkeeper
+691,28,Russia,187.0 cm,10,1,MARIO FERNANDES,Defender
+692,25,Russia,190.0 cm,12,0,Ilya KUTEPOV,Defender
+693,39,Russia,186.0 cm,127,9,Sergei IGNASHEVICH,Defender
+694,29,Russia,191.0 cm,6,0,Andrey SEMENOV,Defender
+695,28,Russia,179.0 cm,16,4,Denis CHERYSHEV,Midfielder
+696,26,Russia,182.0 cm,11,0,Daler KUZIAEV,Midfielder
+697,29,Russia,180.0 cm,10,1,Iury GAZINSKY,Midfielder
+698,28,Russia,179.0 cm,59,9,Alan Dzagoev,Midfielder
+699,29,Russia,187.0 cm,37,12,Fedor Smolov,Forward
+700,25,Russia,185.0 cm,17,0,Roman ZOBNIN,Midfielder
+701,27,Russia,189.0 cm,3,0,Andrei LUNEV,Goalkeeper
+702,31,Russia,187.0 cm,23,0,Fedor KUDRIASHOV,Defender
+703,31,Russia,184.0 cm,13,1,Vladimir GRANAT,Defender
+704,23,Russia,182.0 cm,19,4,Aleksey Miranchuk,Midfielder
+705,23,Russia,182.0 cm,6,0,Anton MIRANCHUK,Midfielder
+706,22,Russia,178.0 cm,23,3,Aleksandr GOLOVIN,Midfielder
+707,35,Russia,178.0 cm,87,2,Yuri Zhirkov,Midfielder
+708,34,Russia,177.0 cm,53,7,Aleksandr SAMEDOV,Midfielder
+709,35,Russia,190.0 cm,10,0,Vladimir GABULOV,Goalkeeper
+710,29,Russia,191.0 cm,19,0,Aleksandr EROKHIN,Midfielder
+711,30,Russia,191.0 cm,28,14,Artem DZYUBA,Forward
+712,30,Russia,178.0 cm,28,0,Igor SMOLNIKOV,Defender
+713,26,Belgium,199.0 cm,65,0,Thibaut COURTOIS,Goalkeeper
+714,30,Belgium,187.0 cm,83,3,Toby ALDERWEIRELD,Defender
+715,33,Belgium,183.0 cm,69,1,Thomas VERMAELEN,Defender
+716,32,Belgium,190.0 cm,82,4,Vincent KOMPANY,Defender
+717,31,Belgium,189.0 cm,110,9,Jan VERTONGHEN,Defender
+718,30,Belgium,186.0 cm,96,9,Axel WITSEL,Midfielder
+719,27,Belgium,181.0 cm,68,15,Kevin DE BRUYNE,Midfielder
+720,31,Belgium,194.0 cm,87,18,Marouane FELLAINI,Midfielder
+721,25,Belgium,193.0 cm,75,40,Romelu LUKAKU,Forward
+722,28,Belgium,170.0 cm,92,25,Eden HAZARD,Forward
+723,25,Belgium,181.0 cm,30,5,Yannick CARRASCO,Midfielder
+724,30,Belgium,193.0 cm,21,0,Simon MIGNOLET,Goalkeeper
+725,26,Belgium,197.0 cm,0,0,Koen CASTEELS,Goalkeeper
+726,31,Belgium,169.0 cm,75,15,Dries MERTENS,Forward
+727,27,Belgium,190.0 cm,30,6,Thomas MEUNIER,Defender
+728,25,Belgium,174.0 cm,13,1,Thorgan HAZARD,Midfielder
+729,21,Belgium,176.0 cm,13,0,Youri TIELEMANS,Midfielder
+730,24,Belgium,180.0 cm,9,1,Adnan JANUZAJ,Forward
+731,31,Belgium,177.0 cm,80,5,Moussa DEMBELE,Midfielder
+732,28,Belgium,188.0 cm,10,0,Dedryck Boyata,Defender
+733,25,Belgium,180.0 cm,19,8,Michy BATSHUAYI,Forward
+734,29,Belgium,187.0 cm,51,6,Nacer CHADLI,Midfielder
+735,23,Belgium,188.0 cm,6,0,Leander DENDONCKER,Defender
